@@ -43,4 +43,4 @@ The budget for this project is mainly intended for the purchase of hardware requ
 
 Total: $50,000
 
-The project will be housed in a lab space at the University of Lincoln.
+If funded, the project will be housed in a lab space at the University of Lincoln in the UK.
