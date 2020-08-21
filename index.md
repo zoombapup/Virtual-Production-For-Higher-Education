@@ -6,6 +6,8 @@ video here
 ### Project Description
 This project is to gain experience with virtual production techniques and hardware for the creation of new VP-enabled content for the higher education sector. Specifically, the production of VP content using Unreal Engine for a third year undergraduate Games Computing/Computer Science graphics module as a prototype and research opportunity to learn what form education content that incorporates virtual production techniques might look like.
 
+The project is being lead by Phil Carlisle, Programme Leader for Games Computing BSc and will be housed at the University of Lincoln, Lincoln, UK. 
+
 ### Is it a good use of Unreal Engine?
 We can see that online teaching is going to be very much in demand and technologies and tools that enable it will be a required skill set for the foreseeable future. This project recognizes that change and wants to learn how real time graphics and virtual production content, created within Unreal Engine, can be incorporated into a higher education setting in the context of an undergraduate graphics module. Aspects of workflow, content style and interaction, as well as content production with inexperienced users will be investigated.
 
