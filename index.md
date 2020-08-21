@@ -42,3 +42,5 @@ The budget for this project is mainly intended for the purchase of hardware requ
 - Main project capture/editing PC ($4k)
 
 Total: $50,000
+
+The project will be housed in a lab space at the University of Lincoln.
