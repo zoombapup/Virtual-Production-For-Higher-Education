@@ -1,7 +1,7 @@
 ## Virtual Production For Higher Education - Epic Megagrant Proposal
 
 ### Project Video
-video here
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/g4QeMZ8aT-s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ### Project Description
 This project is intended to allow us to gain experience and investigate the use of virtual production techniques and hardware for the creation of new VP-enabled content for the higher education sector. Specifically, the production of VP content using Unreal Engine for a third year undergraduate Games Computing/Computer Science graphics module as a prototype and research opportunity to learn what form education content that incorporates virtual production techniques might look like.
