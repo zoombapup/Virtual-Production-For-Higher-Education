@@ -36,7 +36,7 @@ The budget for this project is mainly intended for the purchase of hardware requ
 - Camera equipment ($20k) to include cameras (x3), capture devices, tripods, lenses etc.
 - GreenScreen equipment ($1500)
 - Tracking equipment ($5k)
-- Motion capture equipment (8k) (depth sensors, inertia suit)
+- Motion capture equipment ($8k) (depth sensors, inertia suit)
 - Lens encoders ($1500)
 - Wireless controllers/monitors ($5k)
 - Recording hardware/switchers ($2500)
